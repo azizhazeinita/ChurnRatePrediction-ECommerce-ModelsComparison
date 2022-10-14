@@ -1,1 +1,1 @@
-# ChurnRatePrediction_ModelComparison
+# ChurnRatePrediction-ECommerce-ModelComparison
