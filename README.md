@@ -9,16 +9,19 @@ The purpose of this project is to find customer churn rate prediction in e-comme
 
 * **Dataset**:
   * The data set belongs to a leading online E-Commerce company that's posted in https://www.kaggle.com/code/wonderdavid/e-commerce-customer-churn-prediction/data
-  * Dataset is splitted to train, validation, and test
+  * Dataset is splitted into:
+       * Train (Splitted into train and validation via GridSearchCV)
+       * Validation (Part of initial splitted train dataset via GridSearchCV)
+       * Test
 
 
 * **Methods**: 
   Using GridSearchCV 5 folds for 6 kind of models with different kind of parameters:
-    * Linear Classifier:
+   * Linear Classifier:
        * Logistic Regression
        * Naive Bayes
        * SVM
     * Tree Classifier:
-    DecisionTreeClassifier
-    RandomForestClassifier
-    XGBClassifier
+      * DecisionTreeClassifier
+      * RandomForestClassifier
+      * XGBClassifier
