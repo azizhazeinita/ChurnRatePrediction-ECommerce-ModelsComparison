@@ -1,4 +1,4 @@
-# ChurnRatePrediction-ECommerce-ModelComparison
+# ChurnRatePrediction-ECommerceCustomer-ModelComparison
 
 *A personal project by Azizha Zeinita*
 
