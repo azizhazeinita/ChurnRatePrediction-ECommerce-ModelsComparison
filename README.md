@@ -15,9 +15,9 @@ The purpose of this project is to find customer churn rate prediction in e-comme
 * **Methods**: 
   Using GridSearchCV 5 folds for 6 kind of models with different kind of parameters:
     * Linear Classifier:
-    Logistic Regression
-    Naive Bayes
-    SVM
+       * Logistic Regression
+       * Naive Bayes
+       * SVM
     * Tree Classifier:
     DecisionTreeClassifier
     RandomForestClassifier
