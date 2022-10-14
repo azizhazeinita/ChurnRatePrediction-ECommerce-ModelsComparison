@@ -4,7 +4,7 @@
 
 * **Project Goal**: 
 
-The purpose of this project is to find **customer churn rate prediction in e-commerce** dataset. This approach is used to detect which features affect churn rate, so that company can use it to do future forecasting to **predict which customers who tend to leave the service** and make **promotion strategy** to offer.
+The purpose of this project is to find **customer churn rate prediction using e-commerce** dataset. This approach is used to detect which features affect churn rate, so that company can use it to do future forecasting to **predict which customers who tend to leave the service** and make **promotion strategy** to offer.
 
 
 * **Dataset**:
